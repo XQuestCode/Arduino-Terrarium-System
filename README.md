@@ -8,5 +8,6 @@ sunlight hits your terrarium and another notification when it stops. The sunligh
 to be provided by your Arduino device. You can use any notification mechanism that is
 supported by IFTTT (mobile notification, email etc). </br>
 
+[Reference on IFTTT tutorial](https://docs.arduino.cc/tutorials/nano-33-iot/IFTTT_Connection)
 [Circuit](https://github.com/XQuestCode/Arduino-IoT-IntensitySensor/blob/main/Circuit.png)
 # Atleast star this repository, if you use its resource. Takes a second. Thank You
